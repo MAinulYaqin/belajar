@@ -132,7 +132,7 @@
     .header-warna{
         height: 100%;
         width: 100%;
-        background-image: url('/home/ainul/Desktop/belajar/images/ubuntu-image.png');
+        background-image: url('../images/ubuntu-image.png');
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
